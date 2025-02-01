@@ -23,7 +23,7 @@ OWNER_NAME: process.env.OWNER_NAME || "✦𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎�
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ✦𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙈𝘿✦*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.imgur.com/PEZ5QL2.jpeg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/muam8r.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> ✦𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙈𝘿✦ IS SPARKING ACTIVE AND ALIVE\n\n\nKEEP USING ✦𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙈𝘿✦ FROM RHODVICK TECH INC⚡",
 // add alive msg here 
