@@ -1,7 +1,7 @@
 {
   "name": "✦ 𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙈𝘿✦",
   "description": "Javascript WhatsApp bot made by 𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙈𝘿",
-  "logo": "https://github.com/MrYunoh/Yunoh-MD/../ktech.png",
+  "logo": "https://github.com/King-Yunoh/King-Yunoh/../ktech.png",
   "keywords": ["𝙔𝙐𝙉𝙊𝙃 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙈𝘿"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://i.ibb.co/wJBxKV4/74421a3c5d94ac0a.jpg"
+      "value": "https://files.catbox.moe/muam8r.jpg"
     }, 
     
     "LIVE_MSG": {
@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255733107308"
+      "value": "25573310730***8"
 
     }, 
 
